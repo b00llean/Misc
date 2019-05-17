@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 #
+# Collect snmp interface counters from router
+#
+
 from __future__ import print_function
 import subprocess, re, time, sys
 
